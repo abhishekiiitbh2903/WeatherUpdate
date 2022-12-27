@@ -30,6 +30,7 @@
     display: flex;
     align-items: center;
     color: white;
+    flex-wrap: wrap;
   }
   .weather > div {
     margin: 0.625rem;
